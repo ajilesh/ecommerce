@@ -3274,7 +3274,7 @@
     <script src="{{ asset('public/js/vendor/jquery-3.6.0.min.js') }}"></script>
     <script src="{{ asset('public/js/vendor/jquery-migrate-3.3.0.min.js') }}"></script>
     <script src="{{ asset('public/js/vendor/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('public/plugins/slick.js') }}"></script>
+    <script src="{{ asset('public/js/plugins/slick.js') }}"></script>
     <script src="{{ asset('public/js/plugins/jquery.syotimer.min.js') }}"></script>
     <script src="{{ asset('public/js/plugins/wow.js') }}"></script>
     <script src="{{ asset('public/js/plugins/jquery-ui.js') }}"></script>
